@@ -1,0 +1,55 @@
+#body{
+    background-color:violet;
+}
+.container{
+    display: flex;
+    height: 20px;
+}
+ 
+.container-fluid{
+    flex: 1;
+    background-color: rgb(249, 9, 249);
+    color: rgb(11, 0, 0);
+    text-shadow: 1px 1px 1px rgb(246, 90, 126);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    border: 1px solid rgb(9, 9, 9);
+     
+}
+.col a{
+    color: rgb(6, 6, 6);
+    text-decoration: none;
+}
+.box-1{
+    min-height: 20px;
+}
+.apna_img{
+    width: 50%;
+    height: 28px;
+}
+.box-2{
+    min-height: 20px;
+}
+.box-3{
+    min-height: 20px;
+}
+.box-4{
+    min-height: 20px;
+}
+.box-5{
+    min-height: 20px;
+}
+.box-6{
+    min-height: 20px;
+}
+.box-7{
+    background-color:;
+}
+.box-8{
+    background-color: ;
+}
+.paragraph{
+    font-size: 20px;
+}
+
+
